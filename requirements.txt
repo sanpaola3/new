@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-pandas
-scipy
-streamlit
-=======
 
->>>>>>> 636d9db9f4fb420bc161073bfcc126381173de2c
+pandas==1.3.1
+scipy==1.6.2
+streamlit==1.12.2
+
+
+
